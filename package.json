@@ -1,24 +1,15 @@
 {
-<<<<<<< HEAD
-  "name": "node-web-server",
-=======
-  "name": "mongo",
->>>>>>> upstream/master
+  "name": "Power-purple",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> upstream/master
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "bootstrap": "^3.3.7",
     "express": "^4.14.0",
     "hbs": "^4.0.0",
@@ -32,9 +23,7 @@
     "gulp-uglify": "^1.5.4",
     "jquery": "^1.11.3",
     "magnific-popup": "^1.1.0",
-    "scrollreveal": "^3.1.4"
-=======
+    "scrollreveal": "^3.1.4",
     "mongodb": "^2.2.5"
->>>>>>> upstream/master
   }
 }
